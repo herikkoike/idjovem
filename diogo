@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>ID Jovem Verificada - Diogo</title>
+<style>
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+}
+h2 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+label {
+  font-weight: bold;
+}
+</style>
+</head>
+<body>
+
+<h2>ID Jovem verificada.</h2>
+
+<p><label>Nome:</label> Diogo Gomes</p>
+<p><label>Nascimento:</label> 06/06/1995</p>
+<p><label>NIS:</label> 20086662453</p>
+<p><label>Validade:</label> 12/12/2026</p>
+
+</body>
+</html>
